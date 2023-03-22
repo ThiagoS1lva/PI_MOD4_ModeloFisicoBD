@@ -1,7 +1,7 @@
 # Projeto individual - Módulo 4 - Modelo físico de banco de dados
 ## Criar uma modelagem física de banco de dados e responder as seguintes perguntas:
 
--> Existem outras entidades além dessas três?
+* Existem outras entidades além dessas três?
 ### Sim,a entidade de professor. 
 
 -> Quais são os principais campos e tipos?
